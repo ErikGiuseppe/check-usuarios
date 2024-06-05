@@ -1,0 +1,24 @@
+<form [formGroup]="usuarioForm" (ngSubmit)="inserir()">
+    <p>
+        id: <input type="number" formControlName="id">
+    </p>
+    <p>
+      nome: <input type="text" formControlName="nome">
+    </p>
+    <p>
+      senha <input type="text" formControlName="senha">
+    </p>
+    
+     
+    <button type="">Enviar</button>
+</form>
+
+<h2>Listar</h2>
+
+<ul>
+  @for(item of usuarios ; track $index){
+  <li>{{ item.id }} - {{ item.nome }} - {{ item.senha }}</li>
+  <input type="button" value="remover" (click)="remover(item.id)">
+  <a href="usuario/{{item.id}}">Editar</a>
+  }
+</ul>

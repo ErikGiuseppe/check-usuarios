@@ -1,0 +1,12 @@
+<form [formGroup]="UsuarioForm" (ngSubmit)="update()">
+    <input type="hidden" formControlName="id">
+    <p>
+      nome: <input type="text" formControlName="nome">
+    </p>
+    <p>
+      Senha <input type="text" formControlName="senha">
+    </p>
+   
+     
+    <button type="">Enviar</button>
+</form>

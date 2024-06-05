@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\web-app-user",
+    "\\web-app-user\\bin",
+    "\\web-app-user\\bin\\Debug",
+    "\\web-app-user\\bin\\Debug\\net6.0",
+    "\\web-app-user\\Entidades",
+    "\\web-app-user\\obj\\Debug",
+    "\\web-app-user\\obj\\Debug\\net6.0",
+    "\\web-app-user\\obj\\Release",
+    "\\web-app-user\\Properties"
+  ],
+  "SelectedNode": "\\web-app-user\\Entidades",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STELA\\Desktop\\checkpoint-usuario-ng-master\\web-app-user\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAA1DA0-43F0-4BC1-A450-A2F87A737DE8}|web-app-user\\web-app-user.csproj|c:\\users\\stela\\desktop\\checkpoint-usuario-ng-master\\web-app-user\\web-app-user\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FAA1DA0-43F0-4BC1-A450-A2F87A737DE8}|web-app-user\\web-app-user.csproj|solutionrelative:web-app-user\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAA1DA0-43F0-4BC1-A450-A2F87A737DE8}|web-app-user\\web-app-user.csproj|c:\\users\\stela\\desktop\\checkpoint-usuario-ng-master\\web-app-user\\web-app-user\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAA1DA0-43F0-4BC1-A450-A2F87A737DE8}|web-app-user\\web-app-user.csproj|solutionrelative:web-app-user\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAA1DA0-43F0-4BC1-A450-A2F87A737DE8}|web-app-user\\web-app-user.csproj|c:\\users\\stela\\desktop\\checkpoint-usuario-ng-master\\web-app-user\\web-app-user\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAA1DA0-43F0-4BC1-A450-A2F87A737DE8}|web-app-user\\web-app-user.csproj|solutionrelative:web-app-user\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAA1DA0-43F0-4BC1-A450-A2F87A737DE8}|web-app-user\\web-app-user.csproj|c:\\users\\stela\\desktop\\checkpoint-usuario-ng-master\\web-app-user\\web-app-user\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAA1DA0-43F0-4BC1-A450-A2F87A737DE8}|web-app-user\\web-app-user.csproj|solutionrelative:web-app-user\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAA1DA0-43F0-4BC1-A450-A2F87A737DE8}|web-app-user\\web-app-user.csproj|c:\\users\\stela\\desktop\\checkpoint-usuario-ng-master\\web-app-user\\web-app-user\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FAA1DA0-43F0-4BC1-A450-A2F87A737DE8}|web-app-user\\web-app-user.csproj|solutionrelative:web-app-user\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAA1DA0-43F0-4BC1-A450-A2F87A737DE8}|web-app-user\\web-app-user.csproj|c:\\users\\stela\\desktop\\checkpoint-usuario-ng-master\\web-app-user\\web-app-user\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FAA1DA0-43F0-4BC1-A450-A2F87A737DE8}|web-app-user\\web-app-user.csproj|solutionrelative:web-app-user\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAA1DA0-43F0-4BC1-A450-A2F87A737DE8}|web-app-user\\web-app-user.csproj|c:\\users\\stela\\desktop\\checkpoint-usuario-ng-master\\web-app-user\\web-app-user\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAA1DA0-43F0-4BC1-A450-A2F87A737DE8}|web-app-user\\web-app-user.csproj|solutionrelative:web-app-user\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\STELA\\Desktop\\checkpoint-usuario-ng-master\\web-app-user\\web-app-user\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "web-app-user\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\STELA\\Desktop\\checkpoint-usuario-ng-master\\web-app-user\\web-app-user\\Properties\\launchSettings.json",
+              "RelativeToolTip": "web-app-user\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T16:10:29.074Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\STELA\\Desktop\\checkpoint-usuario-ng-master\\web-app-user\\web-app-user\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "web-app-user\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\STELA\\Desktop\\checkpoint-usuario-ng-master\\web-app-user\\web-app-user\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "web-app-user\\Entidades\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:07:33.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\STELA\\Desktop\\checkpoint-usuario-ng-master\\web-app-user\\web-app-user\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "web-app-user\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\STELA\\Desktop\\checkpoint-usuario-ng-master\\web-app-user\\web-app-user\\appsettings.Development.json",
+              "RelativeToolTip": "web-app-user\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T16:07:28.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\STELA\\Desktop\\checkpoint-usuario-ng-master\\web-app-user\\web-app-user\\appsettings.json",
+              "RelativeDocumentMoniker": "web-app-user\\appsettings.json",
+              "ToolTip": "C:\\Users\\STELA\\Desktop\\checkpoint-usuario-ng-master\\web-app-user\\web-app-user\\appsettings.json",
+              "RelativeToolTip": "web-app-user\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T16:07:23.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\STELA\\Desktop\\checkpoint-usuario-ng-master\\web-app-user\\web-app-user\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "web-app-user\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\STELA\\Desktop\\checkpoint-usuario-ng-master\\web-app-user\\web-app-user\\WeatherForecast.cs",
+              "RelativeToolTip": "web-app-user\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:07:17.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\STELA\\Desktop\\checkpoint-usuario-ng-master\\web-app-user\\web-app-user\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "web-app-user\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\STELA\\Desktop\\checkpoint-usuario-ng-master\\web-app-user\\web-app-user\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "web-app-user\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowDIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:06:50.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STELA\\Desktop\\checkpoint-usuario-ng-master\\web-app-user\\web-app-user\\Program.cs",
+              "RelativeDocumentMoniker": "web-app-user\\Program.cs",
+              "ToolTip": "C:\\Users\\STELA\\Desktop\\checkpoint-usuario-ng-master\\web-app-user\\web-app-user\\Program.cs",
+              "RelativeToolTip": "web-app-user\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:06:39.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

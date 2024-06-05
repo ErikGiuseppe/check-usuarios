@@ -1,0 +1,34 @@
+{
+  "clientes": [
+    {
+      "nome": "rafa",
+      "telefone": "8328131",
+      "id": "fsfa"
+    },
+    {
+      "nome": "daniel",
+      "telefone": "777274",
+      "id": "fsfb"
+    }
+  ],
+  "fornecedores": [
+    {
+      "id": "fsfb",
+      "nome": "ian",
+      "telefone": "828382",
+      "endereco": "string"
+    },
+    {
+      "id": "tZKuSvde",
+      "nome": "joao",
+      "telefone": "9321939",
+      "endereco": "jwjwj"
+    },
+    {
+      "nome": "mendes",
+      "telefone": "113131",
+      "id": "ObkrFllk",
+      "endereco": "casa do joao"
+    }
+  ]
+}

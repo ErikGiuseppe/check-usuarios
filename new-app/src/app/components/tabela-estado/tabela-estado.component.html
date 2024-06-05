@@ -1,0 +1,20 @@
+<table>
+  <thead>
+    <tr>
+      <th>id</th>
+      <th>sigla</th>
+      <th>nome</th>
+    </tr>
+  </thead>
+  <tbody>
+    @for(item of estados; track $index){
+    <tr>
+      <td>{{ item.id }} -</td>
+      <td>{{ item.sigla }} -</td>
+      <td>
+        {{ item.nome }}
+      </td>
+    </tr>
+    }
+  </tbody>
+</table>

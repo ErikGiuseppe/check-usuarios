@@ -1,0 +1,14 @@
+
+
+
+<form [formGroup]="clienteForm" (ngSubmit)="update()">
+    <input type="hidden" formControlName="id">
+    <p>
+      nome: <input type="text" formControlName="nome">
+    </p>
+    <p>
+      Telefone <input type="text" formControlName="telefone">
+    </p>
+    <button type="" >Enviar</button>
+
+</form>

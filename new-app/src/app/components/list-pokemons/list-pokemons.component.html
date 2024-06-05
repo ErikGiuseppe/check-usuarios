@@ -1,0 +1,13 @@
+<h2>Listar</h2>
+
+<ul>
+  @for(item of pokemons; track $index){
+  <li>
+    {{ item.name }} - {{ item.url }} - {{ item.id }} - {{ item.imageUrl }}
+  </li>
+
+  }
+</ul>
+
+
+
